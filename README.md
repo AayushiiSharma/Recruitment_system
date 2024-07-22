@@ -22,7 +22,7 @@ You will also need the following Python packages, which can be installed via `pi
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/VedantJain22/Recruitment-management-system.git
+    git clone (https://github.com/AayushiiSharma/Recruitment_system.git)
     cd Recruitment-management-system
     ```
 
